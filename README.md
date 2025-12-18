@@ -1,47 +1,31 @@
-# Maria Larson 👋
+# Maria Larson
 
-🎓 Data Science student  
-🤖 Exploring Raspberry Pi, Python, and AI systems  
-📊 Interested in analytics, automation, and intelligent systems  
+Hi! I’m Maria Larson — a B.S. Data Science student at Metropolitan State University (Metro State).
 
----
+I’m focused on data analytics, visualization, and applied AI, and I’m building a portfolio that shows both
+statistical thinking and real-world projects.
 
-## About Me
+## What I’m working on
+- 📊 Data visualization + statistical analysis (R, tidyverse, ggplot2)
+- 🧠 Intelligence & security analytics coursework + projects
+- 💻 Building stronger CS foundations (Python, Linux) for applied AI/robotics
 
-I’m a student building hands-on technical skills through real projects.  
-Right now, I’m focused on:
+## Featured Projects
+- **Audio Environment Study (R)** — analysis of how different audio environments impact study focus  
+  Tools: R, tidyverse, ggplot2, ANOVA, Tukey HSD  
+  Repo: *(add your link here)*
 
-- Learning Linux and Python through Raspberry Pi
-- Building strong GitHub habits (documentation, commits, progress tracking)
-- Preparing for future robotics, AI, and data-driven projects
+- **Raspberry Pi Basics** — learning Linux + Python on real hardware before robotics/AI projects  
+  Repo: *(add your link here)*
 
-I believe in learning **from the ground up** and documenting the process.
+## Skills
+- **Languages:** R, Python (learning deeper)
+- **Data:** tidyverse, ggplot2, basic statistical testing
+- **Tools:** GitHub, Markdown, (Linux in progress)
 
----
-
-## Current Focus
-
-🔹 Raspberry Pi fundamentals  
-🔹 Linux terminal & system navigation  
-🔹 Python scripting  
-🔹 Git & GitHub workflow  
-
----
-
-## Projects
-
-- 🟢 **Raspberry Pi Basics**  
-  Learning Linux, Python, and remote access before moving into robotics and AI.
-
-(More projects coming soon.)
-
----
-
-## Goals
-
-- Build a strong technical portfolio
-- Develop confidence working with real systems
-- Prepare for internships in data, software, or AI-related roles
+## Connect
+- LinkedIn: (https://www.linkedin.com/in/mlars29/)*
+- GitHub: https://github.com/Mlars290
 
 ---
 
